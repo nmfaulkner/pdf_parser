@@ -1,0 +1,11 @@
+{
+  "name": "pdf_parser",
+  "version": "1.0.0",
+  "description": "testing pdf parsing with pdf2json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Faulkner",
+  "license": "ISC"
+}
